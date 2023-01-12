@@ -71,6 +71,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3411dc00b21a4794fb242925b5c0a946, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  swordCollider: {fileID: 3561846939238603817}
+  damage: 3
 --- !u!1 &3561846939344061133
 GameObject:
   m_ObjectHideFlags: 0
